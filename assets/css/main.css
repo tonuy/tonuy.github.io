@@ -1935,8 +1935,10 @@ input, select, textarea {
 			font-family: 'Font Awesome 5 Brands';
 		}
 
+
+       /*这里是羽毛的颜色*/
 		.icon.featured {
-			color: #EA8A95;
+			color: #303030;
 			display: block;
 			margin: 0 0 1.5em 0;
 			cursor: default;
