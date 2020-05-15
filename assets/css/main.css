@@ -1820,11 +1820,11 @@ input, select, textarea {
 				}
 
 				ul.social li a.fa-weixin {
-					background-color: #2DAAE4;
+					background-color: #04d86a;
 				}
 
 				ul.social li a.fa-weibo {
-					background-color: #3C5A98;
+					background-color: #ea2c20;
 				}
 
 				ul.social li a.fa-dribbble {
@@ -1832,22 +1832,18 @@ input, select, textarea {
 				}
 
 				ul.social li a.fa-qq {
-					background-color: #006599;
+					background-color: #ffcd00;
 				}
 
 				ul.social li a.fa-behance {
-					background-color: #51718A;
+					background-color: #0057ff;
 				}
 
 				ul.social li a.fa-github {
-					background-color: #DA2713;
+					background-color: #752e8c;
 				}
 
-				ul.social li a.fa-github {
-					background-color: #FAFAFA;
-				}
-
-
+			
 				ul.social li a:hover {
 					top: -5px;
 				}
