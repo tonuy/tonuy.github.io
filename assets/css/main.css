@@ -1824,7 +1824,7 @@ input, select, textarea {
 				}
 
 				ul.social li a.fa-weibo {
-					background-color: #ea2c20;
+					background-color: #e71c21;
 				}
 
 				ul.social li a.fa-dribbble {
@@ -1832,7 +1832,7 @@ input, select, textarea {
 				}
 
 				ul.social li a.fa-qq {
-					background-color: #FFCE00;
+					background-color: #FFAE00;
 				}
 
 				ul.social li a.fa-behance {
@@ -1840,10 +1840,11 @@ input, select, textarea {
 				}
 
 				ul.social li a.fa-github {
-					background-color: #752e8c;
+					background-color: #a247ae;
 				}
 
-			
+				
+
 				ul.social li a:hover {
 					top: -5px;
 				}
@@ -2405,22 +2406,10 @@ input, select, textarea {
 
 	}
 
-.tanchaung {
-	width: 300px;
-	height: 300px;
-	background-color: #F81014;
-	
-	
-	
-}
 
+	
+	
 
-#tanchuang a:hover{
-	
-	
-	
-	
-}
 
 
 
